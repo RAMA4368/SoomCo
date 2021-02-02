@@ -1,3 +1,19 @@
-# 본 저장소에서 제공된 모든 코드, 파일 및 공용 데이터는 테스트 목적으로 사용되며 수익 목적으로 사용되지 않는다는 점을 상기시키고자 한다. 코드, 파일 또는 공용 데이터를 사용할 때 수익 생성 또는 저작권법을 위반하지 마십시오.
+SoomCo JAVA 1st Project
 
-# I would like to remind you that all codes, files and public data provided to this repository are used for testing purposes and are not used for revenue purposes. Do not violate any revenue generation or copyright laws when using codes, files, or public data.
+
+###0.팀원
+<img width="603" alt="스크린샷 2021-02-02 오후 9 35 39" src="https://user-images.githubusercontent.com/70255324/106601095-99880b00-659e-11eb-9bf3-99ea8ea2503f.png">
+
+###1.숨코 메인
+![숨코메인](https://user-images.githubusercontent.com/70255324/106600439-c687ee00-659d-11eb-92b9-9fcd05e07d0e.png)
+
+###2.숨코 메인 - 크롤링 매거진
+<img width="1440" alt="스크린샷 2020-11-29 오후 3 44 32" src="https://user-images.githubusercontent.com/70255324/106600527-e5868000-659d-11eb-8674-63ba7bf93ef6.png">
+
+###3.숨코 소카테고리
+![소카테고리](https://user-images.githubusercontent.com/70255324/106600465-ce479280-659d-11eb-9f05-d8f733951213.png)
+
+###4.개발 환경
+<img width="607" alt="스크린샷 2021-02-02 오후 9 33 10" src="https://user-images.githubusercontent.com/70255324/106600807-401fdc00-659e-11eb-95b7-44fc3c92bfd3.png">
+
+
